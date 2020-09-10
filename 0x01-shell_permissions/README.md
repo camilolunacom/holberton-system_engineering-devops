@@ -102,3 +102,17 @@ Change the owner and group owner of the file `_hello` to `hetty` and `holberton`
 File: `16-if_only`
 
 Change the owner of the file `hello` to `betty` only if it is owned by the user `guillaume`.
+
+## Advanced (Optional) Tasks
+
+### 17. Star Wars
+
+File: `100-Star_Wars`
+
+Play StarWard IV episode in the terminal.
+
+### 18. RTFM
+
+File: `101-man_holberton`
+
+Create a man page.
