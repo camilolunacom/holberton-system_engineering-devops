@@ -1,0 +1,18 @@
+.Dd 10 December 1945
+.Dt eniac man page
+.Os 0.32
+.Sh NAME
+.Nm eniac
+.Nd the first electronic general-purpose digital computer.
+.Sh SYNOPSIS
+eniac
+.Sh DESCRIPTION
+Eniac was Turing-complete, and able to solve "a large class of numerical problemas' through reprogramming.
+.Sh OPTIONS
+.Nm
+does not take any options.
+.Sh SEE ALSO
+.Sh BUGS
+No known bugs.
+.Sh AUTHOR
+University of Pennsylvania.
