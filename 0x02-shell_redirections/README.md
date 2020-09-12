@@ -139,3 +139,28 @@ Write a script that reverse its input.
 File: `22-users_and_homes`
 
 Display all useres and their home directories, sorted by users.
+
+## Advanced (Optional) Tasks
+
+### 23. Empty casks make the most noise
+
+File: `100-empty_casks`
+
+Find all empty files and directories (including hidden ones) in the current directory and all sub-directories. Show only file names, one per line, end the list with a new line and can't use `basename`, `grep`, `egrep`, `fgrep` or `rgrep`.
+
+### 24. A gif is worth ten thousand words
+File: `101-gifs`
+
+List all files with `.gif` extension in the current directory and all its sub-directories. Include hidden files but not direcoties, show file names without extensions, sorted by byte values, but case-insensitive, one file name per line, list ends with new line and can't use `basename`, `grep`, `egrep`, `fgrep` or `rgrep`.
+
+### 25. Acrostic
+
+File: `102-acrostic`
+
+Decode acrostics that use the first letter of each line. The 'decoded' message has to end with a new line and can't use `grep`, `egrep`, `fgrep` or `rgrep`.
+
+### 26. The biggest fan
+
+File: `103-the_biggest_fan`
+
+Parse web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests. Order by number of requests, most active host or IP at the top and can't use `grep`, `egrep`, `fgrep` or `rgrep`.
